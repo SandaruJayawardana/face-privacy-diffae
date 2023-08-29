@@ -11,5 +11,7 @@ datasets/ffhq256.lmdb
 datasets/celeba.lmdb
 datasets/celeba
 checkpoints
+latent_codes
+imgs
 
 .ipynb_checkpoints/
