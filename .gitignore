@@ -12,6 +12,7 @@ datasets/celeba.lmdb
 datasets/celeba
 checkpoints
 latent_codes
+celebA_latents
 imgs
 
 .ipynb_checkpoints/
