@@ -2,6 +2,7 @@ temp
 __pycache__
 generated
 latent_infer
+datasets/adult
 datasets/bedroom256.lmdb
 datasets/horse256.lmdb
 datasets/celebahq
@@ -10,6 +11,7 @@ datasets/ffhq
 datasets/ffhq256.lmdb
 datasets/celeba.lmdb
 datasets/celeba
+datasets/celeba_anno
 checkpoints
 latent_codes
 celebA_latents
