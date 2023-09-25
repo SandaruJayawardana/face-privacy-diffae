@@ -16,5 +16,7 @@ checkpoints
 latent_codes
 celebA_latents
 imgs
+.jpg
+celebA_hq/image
 
 .ipynb_checkpoints/
