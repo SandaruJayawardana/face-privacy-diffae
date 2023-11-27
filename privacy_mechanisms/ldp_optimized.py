@@ -21,7 +21,6 @@ import cvxpy as cp
 #         prob_vec = self.cal_probabilities(actual_value, eps)
 #         random_ = np.random.choice(len(self.ARRAY) if out_index_ else self.ARRAY, 1, p=prob_vec)
 #         return random_
-
 class LDP_mechanism:
     def __init__(self, joint_prob, array = ["0 0", "0 1", "1 0", "1 1"]):
         self.ARRAY = array
